@@ -1,10 +1,10 @@
 const modapk = () => { 
 	return `
-	*Mod de aplicativo*
-• Quer baixar algo?
+	*𝕄𝕆𝔻 𝔸ℙ𝕂*
+• 𝑁𝑒𝑐𝑒𝑠𝑖𝑡𝑎𝑠 𝑎𝑙𝑔𝑜?
 
 
-👾 *APROVEITEM*
+👾 *APROVECHA*
 
 • Minecraft (Original)
 https://www.mediafire.com/file/4hixmktsfkhky91/Minecraft_v1.16.101.01_Terbaru.zip/file
@@ -132,7 +132,7 @@ https://realsht.mobi/exXCy
 • Template Solo
 https://realsht.mobi/MvYbm
 
-〽️FONTES
+〽️FUENTES
 
 • Coleção de fontes para citações
 https://realsht.mobi/JkmXx
@@ -149,7 +149,7 @@ https://realsht.mobi/iJQbj
 • 100 Font Picsay/Pixelab
 https://realsht.mobi/hrTdE
 
-CAUSS NO CONTROLE 🐊🚩
+𝑀𝑖𝑛𝑖𝑚𝑜 𝑙𝑎𝑠 𝑔𝑟𝑎𝑐𝑖𝑎𝑠🚩
 `
 }
 exports.modapk = modapk
